@@ -21,4 +21,4 @@ Riley prides herself on his diverse skill set.
 * 
 
 
-#![David Florian](/assets/img/David_Headshot_web2.jpg)
+# ![David Florian](/assets/img/David_Headshot_web2.jpg)
