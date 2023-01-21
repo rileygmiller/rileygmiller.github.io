@@ -17,3 +17,5 @@ gallery:
 ---
 
 I worked in the Lin Labratory at Vanderbilt University, conducting experiments for two research projects regarding nanofiltration membranes. I studied the effect extreme pH conditions have on commercial membrane performance. In addition, I worked on fabricating layer-by-layer polyelectrolyte nanofiltration membranes to aid in the separation of hydroxide from carbonate and phosphate.
+
+{% include gallery caption="" %}
