@@ -12,3 +12,5 @@ gallery:
 ---
 
 I coded a program using the Java programming language that generates an appropiate outfit based on inputs provided by the user.
+
+{% include gallery caption="" %}
