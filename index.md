@@ -12,7 +12,6 @@ excerpt: "Riley Miller is a chemical engineering student with a focus on the env
 feature_row:
   - image_path: /assets/solar panels.jfif
   - image_path: /assets/water.jfif
-  - image_path: /assets/earth.jfif
 ---
 
 {% include feature_row %}
