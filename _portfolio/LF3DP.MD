@@ -2,8 +2,8 @@
 title: "Outfit Generator Program"
 excerpt: "Program to generate an outfit for the day based on user inputs and settings."
 header:
-  image: /assets/img/LF3DP-Banner-2.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
+  image: /assets/fashion gen header github.png
+  teaser: /assets/Screenshot (53).png
 gallery:
   - image_path: /assets/Screenshot (48).png
   - image_path: /assets/Screenshot (49).png
