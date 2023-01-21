@@ -10,9 +10,9 @@ header:
       url: "/portfolio/"
 excerpt: "Riley Miller is a chemical engineering student with a focus on the environment. She is interested in renewable energy, water resources & treatment, and environmental justice."
 feature_row:
-  - image_path: solar panels.jfif
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-  - image_path: assets/img/Zidex-Thumbnail.jpg
+  - image_path: /assets/solar panels.jfif
+  - image_path: /assets/water.jfif
+  - image_path: /assets/earth.jfif
 ---
 
 {% include feature_row %}
