@@ -2,8 +2,8 @@
 title: "Outfit Generator Program"
 excerpt: "Program to generate an outfit for the day based on user inputs and settings."
 header:
-  image: /assets/fashion gen header github.png
-  teaser: /assets/Screenshot (53).png
+  image: /assets/Screenshot (45).png
+  teaser: /assets/fashion gen header github.png
 gallery:
   - image_path: /assets/Screenshot (48).png
   - image_path: /assets/Screenshot (49).png
