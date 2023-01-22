@@ -6,7 +6,7 @@ title: "About Riley Miller"
 
 ## Education
 
-Riley prides herself on his diverse skill set.
+Riley prides herself on her hardwork, dedication, and love for learning.
 
 * Vanderbilt University
   * BE Chemical Engineering
