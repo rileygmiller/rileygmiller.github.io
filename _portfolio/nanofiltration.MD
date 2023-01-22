@@ -1,5 +1,5 @@
 ---
-title:"Nanofiltration Membrane Research"
+title: "Nanofiltration Membrane Research"
 excerpt: "Nanofiltration membranes can be used for a variety of things, such as water desalination or carbon capture."
 header:
   image: /assets/IMG_3259.jpg
