@@ -18,3 +18,5 @@ Riley prides herself on her hardwork, dedication, and love for learning.
 * Python & Java language proficiency
 * AutoCAD
 
+<img src="/assets/img/David_Headshot_web2.jpg" alt="Riley Miller" style="width:200px;"/>
+
