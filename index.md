@@ -9,9 +9,6 @@ header:
     - label: "My Projects"
       url: "/portfolio/"
 excerpt: "Riley Miller is a chemical engineering student with a focus on the environment. She is interested in renewable energy, water resources & treatment, and environmental justice."
-feature_row:
-  - image_path: /assets/solar panels.jfif
-  - image_path: /assets/water.jfif
 ---
 
 {% include feature_row %}
