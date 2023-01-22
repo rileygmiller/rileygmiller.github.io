@@ -7,7 +7,6 @@ header:
 gallery:
   - image_path: /assets/Screenshot (48).png
   - image_path: /assets/Screenshot (49).png
-  - image_path: /assets/Screenshot (45).png
    
 ---
 
